@@ -1,0 +1,223 @@
+BASIC CONCEPTS
+
+	A HELLO WORLD PROGRAM
+	print 'hello world' to the screen
+	how are the sub-contents of a package organised into hierarchical levels?
+
+
+	JAVA COMMENTS
+	create a single line comment 1
+	create a single line comment 2
+	create a multi line comment
+	nest a single line comment within a multi line comment
+	documentation comment 1
+	documentation comment 2
+
+
+	VARIABLES
+	variable declarations
+	variable multiple declarations
+	naming convention
+
+
+	PRIMITIVE OPERATORS
+	math operators
+	addition
+	multiplication
+	intdivision
+	doubledivision
+	modulo
+
+
+	INCREMENT AND DECREMENT
+	increment
+	decrement
+	prefix and postfix
+
+
+	STRINGS
+	print string
+	concatenate string
+	print char
+
+
+	GETTING USER INPUT
+	create Scanner object
+	access Scanner methods
+
+
+
+CONDITIONALS AND LOOPS
+
+	CONDITIONAL STATEMENTS
+	if statement
+	if else statement
+
+	NESTED IF STATEMENTS
+	
+	ELSE IF STATEMENT
+
+	LOGICAL STATEMENTS
+	logical operator &&
+	logical operator ||
+	logical operator !
+	
+	THE SWITCH STATEMENT
+	switch statement
+	default statement
+	
+	WHILE LOOPS
+	while loop
+	
+	FOR LOOPS
+	for loop
+	
+	DO WHILE LOOPS
+	do while loop
+	break statement
+	continue statement
+
+
+
+ARRAYS
+
+	ARRAYS
+	creating arrays
+	initialising arrays
+
+	
+	SUMMING ELEMENTS IN ARRAYS
+	length property
+	summing up
+
+	
+	ENHANCED FOR LOOP
+	enhanced for loop ('for each' loop)
+
+
+	MULTIDIMENSIONAL ARRAYS
+	multidimensional arrays
+
+
+CLASSES AND OBJECTS
+
+	OBJECT ORIENTED PROGRAMMING
+	what entity defines the behaviour and attributes of an object?
+
+	
+	METHODS
+	create and call a method from within its source class
+	call a method from an external class
+	multiple method calls
+	method parameters
+	pass in multiple parameters
+	parameters for math operations
+
+
+	METHOD RETURN TYPES
+	the return keyword and the return type
+
+
+	CREATING CLASSES AND OBJECTS
+	creating classes
+	creating objects
+
+
+	CLASS ATTRIBUTES
+	attributes and methods
+	creating objects
+
+
+	ACCESS MODIFIERS - CLASSES
+	public
+	default
+
+
+	ACCESS MODIFIERS - ATTRIBUTES AND METHODS
+	public
+	default and protected
+	private
+	
+
+	GETTERS AND SETTERS
+	getters and setters
+
+
+	CONSTRUCTORS
+	constructor without parameters
+	constructor with parameters
+	using constructors with setters (constructor takes in no arguments but passes a literal to the setter)	using constructors with setters (constructor takes in a variable argument and passes it to the setter)
+	performing actions using constructors
+
+
+	VALUE AND REFERENCE TYPES
+	primitive types
+	reference types
+
+
+	THE MATH CLASS
+	the math class
+
+
+	STATIC
+	what are the implications of making an item static
+	what are the implications of not making an item static
+	static variables
+	static methods
+
+
+	FINAL
+	final
+
+
+	PACKAGES
+	create package
+	import package.class
+	import package.*
+
+
+
+MORE ON CLASSES
+
+	ENCAPSULATION
+	data hiding
+
+
+	INHERITANCE
+
+
+	POLYMORPHISM
+
+
+	OVERRIDING AND OVERLOADING
+
+
+	ABSTRACT CLASSES
+
+
+	INTERFACES
+
+
+	CASTING
+
+
+	DOWNCASTING
+
+
+	ANONYMOUS CLASSES
+
+
+	INNER CLASSES
+
+
+	THE EQUALS() METHOD
+
+
+	ENUMS
+
+
+	USING THE JAVA API
+
+
+
+EXCEPTIONS, LISTS, THREADS AND FILES
